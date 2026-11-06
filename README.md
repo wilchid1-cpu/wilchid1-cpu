@@ -35,20 +35,12 @@ Ainda estou no começo da minha jornada na tecnologia, mas tenho muita vontade d
 
 ## 📊 GitHub Stats
 
-<p
-
-align="left">
-
-<img height="170" src="https://
-github-readme-stats.vercel.app/api?
-username=wilchid1-cpu&show icons=true&
-theme=tokyonight&count private=true" />
-
-<img height="170" src="https://
-github-readme-stats.vercel.app/api/top-langs/?
-username-wilchid1-cpu&layout=compact&
-theme=tokyonight" />
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wilchid1-cpu&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilchid1-cpu&layout=compact&theme=tokyonight" />
 </p>
 ---
 
 ⭐ Obrigado por visitar meu perfil!
+
+
