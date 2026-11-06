@@ -38,11 +38,7 @@ Ainda estou no começo da minha jornada na tecnologia, mas tenho muita vontade d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=wilchid1-cpu&theme=tokyonight" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://ghstats.dev/api/langs?username=wilchid1-cpu&layout=compact&theme=tokyonight" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wilchid1-cpu&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ## 🐍 Minha atividade no GitHub
