@@ -33,11 +33,25 @@ Ainda estou no começo da minha jornada na tecnologia, mas tenho muita vontade d
 
 **"Um passo de cada vez, um código de cada vez."**
 
+
+
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wilchid1-cpu&show_icons=true&theme=tokyonight&count_private=true" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wilchid1-cpu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilchid1-cpu&layout=compact&theme=tokyonight" />
+</p>
+
+## 🐍 Minha atividade no GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilchid1-cpu&theme=tokyonight" />
+</p>
+
+## 💻 Tecnologias que estou estudando
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode" />
 </p>
 ---
 
