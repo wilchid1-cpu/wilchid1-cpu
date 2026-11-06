@@ -1,5 +1,13 @@
 # 👨‍💻 Olá! Eu sou o Wilchid
 
+## 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://github.com/wilchid1-cpu">
+    <img src="https://img.shields.io/badge/GitHub-wilchid1-cpu-181717?style=for-the-badge&logo=github" />
+  </a>
+
+
 ### 🎓 Estudante de Ciências da Computação | Futuro Desenvolvedor de Software
 
 Seja bem-vindo ao meu GitHub!
