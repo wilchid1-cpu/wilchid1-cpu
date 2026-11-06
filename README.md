@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-WILCHID%20VILSAINT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-```
+
 
 ### 🎓 Estudante de Ciências da Computação | Futuro Desenvolvedor de Software
 
