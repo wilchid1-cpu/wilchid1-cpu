@@ -4,9 +4,16 @@
 
 <p align="left">
   <a href="https://github.com/wilchid1-cpu">
-    <img src="https://img.shields.io/badge/GitHub-wilchid1-cpu-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-WILCHID1--CPU-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
+  <a href="https://www.instagram.com/wilchid_0_0/">
+    <img src="https://img.shields.io/badge/Instagram-@WILCHID_0_0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/wilchid-vilsaint-a19356421/">
+    <img src="https://img.shields.io/badge/LinkedIn-WILCHID%20VILSAINT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+```
 
 ### 🎓 Estudante de Ciências da Computação | Futuro Desenvolvedor de Software
 
